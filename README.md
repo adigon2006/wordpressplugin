@@ -1,2 +1,0 @@
-# wordpressplugin
-Plugin
